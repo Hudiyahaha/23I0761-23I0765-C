@@ -1,4 +1,6 @@
-# Manual Lexical Scanner
+# 23I0761-23I0765-C - Manual Lexical Scanner
+
+Compiler Construction Assignment 1
 
 A complete lexical scanner implementation in Java that tokenizes source code according to the language specification.
 
