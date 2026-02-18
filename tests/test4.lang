@@ -1,0 +1,6 @@
+start
+declare @invalid = 5;
+declare 2WrongStart = 10;
+declare Unterminated = "no closing quote;
+declare TooManyDecimals = 3.1234567;
+finish

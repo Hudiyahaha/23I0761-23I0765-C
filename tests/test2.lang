@@ -1,0 +1,10 @@
+start
+declare Total = 0;
+loop condition Total < 100 {
+    Total += 1;
+    declare Result = Total ** 2;
+}
+function Calculate {
+    return Result;
+}
+finish

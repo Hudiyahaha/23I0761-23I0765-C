@@ -1,0 +1,6 @@
+start
+declare Count = +42;
+declare Pi = 3.141592;
+output "Hello World\n";
+## this is a single line comment
+finish

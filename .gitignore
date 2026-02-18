@@ -1,0 +1,3 @@
+# Exclude Java source files (as requested)
+*.java
+*~

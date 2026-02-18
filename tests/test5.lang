@@ -1,0 +1,8 @@
+start
+## single line comment here
+#*
+   this is a
+   multi-line comment
+*#
+declare Value = 99;
+finish

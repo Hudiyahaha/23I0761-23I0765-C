@@ -1,0 +1,7 @@
+start
+declare Message = "Hello\nWorld";
+declare Tab = "Column\tData";
+declare Quote = "She said \"hi\"";
+declare Ch = 'A';
+declare Escaped = '\\';
+finish

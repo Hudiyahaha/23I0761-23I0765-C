@@ -1,0 +1,9 @@
+start
+declare @invalid = 5;
+declare $amount = 10;
+declare 2WrongStart = 99;
+declare Unterminated = "no closing quote;
+declare BadFloat = 3.1234567;
+declare good = something;
+#* this comment never closes
+finish
